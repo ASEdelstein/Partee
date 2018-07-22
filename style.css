@@ -1,0 +1,11 @@
+.nav-wrapper {
+    margin: 0;
+    color: #ff9800;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+#container {
+    text-align: center
+}
