@@ -1,0 +1,27 @@
+.nav-wrapper {
+    margin: 0;
+    color:white;
+    width: 40%;
+    margin: 0 auto;
+    border-radius: 15px;
+    text-align: left;
+}
+
+#container {
+    text-align: center;
+}
+
+img {
+        border:1px solid white;
+        margin-top: 10px;
+        margin-left: 10px;
+}
+
+#section-left {
+    float: left;
+    margin-right: 10px;
+ }
+ 
+ #section-right {
+    
+ }
